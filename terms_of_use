@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ormi Terms of Use</title>
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:900px;
+    margin:40px auto;
+    padding:20px;
+    line-height:1.7;
+    color:#333;
+}
+h1,h2{
+    color:#222;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Terms of Use</h1>
+
+<p><strong>Last Updated:</strong> June 30, 2026</p>
+
+<p>
+Welcome to <strong>Ormi</strong>. By downloading, installing, accessing, or using the Ormi mobile application, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the application.
+</p>
+
+<h2>1. Description of the Service</h2>
+
+<p>
+Ormi is a productivity and habit-tracking application that helps users build healthy routines and manage daily tasks. Features may include:
+</p>
+
+<ul>
+<li>Habit tracking</li>
+<li>Daily task management</li>
+<li>Sleep, weight, and protein tracking</li>
+<li>Focus timers</li>
+<li>Monk Mode app blocking</li>
+<li>Custom widgets</li>
+<li>Cloud backup and synchronization</li>
+</ul>
+
+<p>
+The app is provided on an "AS IS" and "AS AVAILABLE" basis. We do not guarantee uninterrupted service, error-free operation, or compatibility with every Android device.
+</p>
+
+<h2>2. User Accounts</h2>
+
+<p>
+Some features require signing in with a supported authentication provider such as Google Sign-In.
+You are responsible for maintaining the confidentiality of your account and for all activities performed using your account.
+</p>
+
+<h2>3. Cloud Synchronization</h2>
+
+<p>
+If cloud synchronization is enabled, your data is securely stored using Google Firebase services.
+By using these features, you also agree to Google's applicable terms and privacy policies.
+</p>
+
+<h2>4. Premium Features</h2>
+
+<p>
+Ormi may offer optional premium subscriptions or one-time purchases through Google Play Billing.
+Prices, available features, and subscription plans may change from time to time.
+All purchases are processed securely by Google Play and are subject to Google's payment terms.
+</p>
+
+<h2>5. Acceptable Use</h2>
+
+<p>You agree not to:</p>
+
+<ul>
+<li>Use the app for unlawful purposes.</li>
+<li>Attempt to reverse engineer, decompile, or modify the application.</li>
+<li>Copy, distribute, or resell any part of the application.</li>
+<li>Interfere with the app's security or functionality.</li>
+<li>Use the app in any way that violates applicable laws.</li>
+</ul>
+
+<h2>6. Intellectual Property</h2>
+
+<p>
+All trademarks, logos, graphics, user interface designs, software, source code, and other content within Ormi are the intellectual property of Ormi unless otherwise stated.
+Nothing in these Terms transfers ownership of any intellectual property to you.
+</p>
+
+<h2>7. Disclaimer</h2>
+
+<p>
+Ormi is intended for productivity and informational purposes only.
+It does not provide medical, nutritional, or professional health advice.
+Always consult a qualified professional regarding medical or health-related decisions.
+</p>
+
+<h2>8. Limitation of Liability</h2>
+
+<p>
+To the maximum extent permitted by applicable law, Ormi and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, the application, including loss of data, missed reminders, synchronization failures, device issues, or productivity losses.
+</p>
+
+<h2>9. Termination</h2>
+
+<p>
+We reserve the right to suspend or terminate access to the app or certain features if these Terms are violated or if required by law.
+</p>
+
+<h2>10. Changes to These Terms</h2>
+
+<p>
+We may update these Terms of Use from time to time.
+The latest version will always be available on this page.
+Continued use of the app after changes become effective constitutes acceptance of the updated Terms.
+</p>
+
+<h2>11. Governing Law</h2>
+
+<p>
+These Terms shall be governed by and interpreted in accordance with the laws of India, without regard to conflict of law principles.
+</p>
+
+<h2>12. Contact Us</h2>
+
+<p>
+If you have any questions regarding these Terms of Use, please contact:
+</p>
+
+<p>
+<strong>Email:</strong> chinmaykabra3@gmail.com
+</p>
+
+</body>
+</html>
